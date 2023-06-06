@@ -21,7 +21,7 @@ cd csv_up
 ```
 ### Скачайте репозиторий:
 ```bash
-git clone ******
+git clone git@github.com:BobHawler/csv_up.git
 ```
 
 ### Перейдите в папку проекта:
